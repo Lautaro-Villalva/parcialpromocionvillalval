@@ -1,0 +1,25 @@
+
+# Compilacion de Maven
+target/
+
+# Base de datos H2 local
+data/
+
+# Variables de entorno (NO se suben; se sube .env.example)
+.env
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.factorypath
+.apt_generated
+.sts4-cache/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+HELP.md
